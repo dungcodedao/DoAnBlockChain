@@ -1,0 +1,10 @@
+D:\DoanBlocChain\Form\DoAnBlockChain\DoAnBlockChain\bin\Debug\DoAnBlockChain.exe.config
+D:\DoanBlocChain\Form\DoAnBlockChain\DoAnBlockChain\bin\Debug\DoAnBlockChain.exe
+D:\DoanBlocChain\Form\DoAnBlockChain\DoAnBlockChain\bin\Debug\DoAnBlockChain.pdb
+D:\DoanBlocChain\Form\DoAnBlockChain\DoAnBlockChain\obj\Debug\DoAnBlockChain.csproj.AssemblyReference.cache
+D:\DoanBlocChain\Form\DoAnBlockChain\DoAnBlockChain\obj\Debug\DoAnBlockChain.Form1.resources
+D:\DoanBlocChain\Form\DoAnBlockChain\DoAnBlockChain\obj\Debug\DoAnBlockChain.Properties.Resources.resources
+D:\DoanBlocChain\Form\DoAnBlockChain\DoAnBlockChain\obj\Debug\DoAnBlockChain.csproj.GenerateResource.cache
+D:\DoanBlocChain\Form\DoAnBlockChain\DoAnBlockChain\obj\Debug\DoAnBlockChain.csproj.CoreCompileInputs.cache
+D:\DoanBlocChain\Form\DoAnBlockChain\DoAnBlockChain\obj\Debug\DoAnBlockChain.exe
+D:\DoanBlocChain\Form\DoAnBlockChain\DoAnBlockChain\obj\Debug\DoAnBlockChain.pdb
